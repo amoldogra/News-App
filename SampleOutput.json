@@ -1,0 +1,309 @@
+{
+
+    "status": "ok",
+    "totalResults": 38,
+     
+    "articles": [
+         
+        {
+             
+            "source": {
+                "id": "nbc news",
+                "name": "NBC News"
+            },
+            "author": "Erika Edwards",
+            "title": "Omicron symptoms: What new Covid variant research shows us so far   NBC News",
+            "description": "Omicron variant symptoms may be different than previous Covid strains. Learn what you should know about Omicron symptoms and what to look out for.",
+            "url": "https://www.nbcnews.com/health/health news/omicron symptoms covid what to know rcna9469",
+            "urlToImage": "https://media cldnry.s nbcnews.com/image/upload/t_nbcnews fp 1200 630,f_auto,q_auto:best/rockcms/2021 12/211222 covid test mn 1100 83137e.jpg",
+            "publishedAt": "2021 12 22T16:05:00Z",
+            "content": "The dizzying speed of omicron's spread has left Americans questioning much of what they know about Covid 19, especially on the cusp of holiday travel. \r\n\"This is hitting us at a very inopportune time… [+7057 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS Trailer (2022) Marvel   JoBlo Movie Trailers",
+            "description": "DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS Trailer (2022) MarvelPLOT: Joined by Wanda (Elizabeth Olsen as Scarlet Witch), Doctor Strange must battle evil fo...",
+            "url": "https://www.youtube.com/watch?v=0eLkYGrSe28",
+            "urlToImage": "https://i.ytimg.com/vi/0eLkYGrSe28/maxresdefault.jpg",
+            "publishedAt": "2021 12 22T16:03:46Z",
+            "content": null
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ryan Dunleavy",
+            "title": "NFL Power Rankings for Week 16: Plenty of movement   New York Post ",
+            "description": "Here are The Post’s NFL power rankings for Week 16.",
+            "url": "https://nypost.com/2021/12/22/nfl power ranking for week 16 plenty of movement/",
+            "urlToImage": "https://nypost.com/wp content/uploads/sites/2/2021/12/1359900094.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021 12 22T15:53:00Z",
+            "content": "Aaron Rodgers is about to leapfrog Brett Favre.\r\nRodgers next touchdown pass will break a tie with Favre at 442 and give him the storied Green Bay Packers franchise record. Thats a nice achievement, … [+5928 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Shweta Sharma",
+            "title": "US Army claims it is close to developing vaccine against all Covid variants and coronaviruses   The Independent",
+            "description": "Army developed SpFN vaccine completed phase 1 of human trials earlier this year",
+            "url": "https://www.independent.co.uk/news/world/americas/covid vaccine omicron variants us army b1980687.html",
+            "urlToImage": "https://static.independent.co.uk/2021/12/22/04/GettyImages 1210622063.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021 12 22T15:38:32Z",
+            "content": "The US Department of Defence (DOD) is just weeks away from announcing a vaccine that can fight against Covid 19, including the Omicron and Delta variants, and other coronaviruses that have killed mil… [+2155 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "ars technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Bangeman",
+            "title": "NHTSA investigating Tesla over infotainment display gaming feature   Ars Technica",
+            "description": "Tesla's warnings say gaming is only for front row passengers.",
+            "url": "https://arstechnica.com/cars/2021/12/nhtsa investigating tesla over infotainment display gaming feature/",
+            "urlToImage": "https://cdn.arstechnica.net/wp content/uploads/2021/12/teslagame 760x380.jpg",
+            "publishedAt": "2021 12 22T15:34:58Z",
+            "content": "Sky Force Reloaded running on a Tesla's central screen while the car is driving down the road.\"/&gt;\r\n Enlarge/Sky Force Reloaded running on a Tesla's central screen while the car is driving down the… [+1859 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt and Ashley Strickland, CNN",
+            "title": "Comet Leonard has been dazzling the night sky in a pre Christmas show   CNN",
+            "description": "Comet Leonard has been captured by a sun observing telescope. It last passed by Earth 80,000 years ago, and there's only a few days left to see it before it disappears forever.",
+            "url": "https://www.cnn.com/2021/12/22/world/christmas comet leonard december scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211222082558 comet leonard nasa super tease.jpg",
+            "publishedAt": "2021 12 22T15:08:00Z",
+            "content": "(CNN)Comet Leonard, which last passed by Earth 80,000 years ago, has been dazzling the night sky before Christmas, and there's only a few days left to see the celestial object before it disappears fo… [+3844 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "S.African study offers Omicron hope as nations reimpose curbs   Reuters",
+            "description": "A South African study offered Christmas glad tidings about the severity of Omicron and the trend of COVID 19 infections on Wednesday as the fast spreading coronavirus variant forced countries across the world to impose new curbs.",
+            "url": "https://www.reuters.com/world/the great reboot/omicrons march revives urgent global calls vaccinations 2021 12 22/",
+            "urlToImage": "https://www.reuters.com/resizer/WEdaFkp_npEwX4RLWWKUSpWHPPU=/1200x628/smart/filters:quality(80)/cloudfront us east 2.images.arcpublishing.com/reuters/ZYEZT5IZEBNYHPP6MFK32EN4LQ.jpg",
+            "publishedAt": "2021 12 22T15:05:00Z",
+            "content": "JOHANNESBURG, Dec 22 (Reuters)   A South African study offered Christmas glad tidings about the severity of Omicron and the trend of COVID 19 infections on Wednesday as the fast spreading coronavirus… [+5594 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Fewer immigrant workers are coming to fill key jobs. That has slowed the U.S. economy   NPR",
+            "description": "The U.S. economy is lacking more than a million immigrant workers who would be here if not for the pandemic and Trump era cuts. That may be hurting industries that depend on immigrants, like trucking.",
+            "url": "https://www.npr.org/2021/12/22/1063104262/immigrant workers us economy key jobs",
+            "urlToImage": "https://media.npr.org/assets/img/2021/12/10/jagdeep truck 1_wide a9ac527b75f9e69a61b714680a1aabc44d346599.jpg?s=1400",
+            "publishedAt": "2021 12 22T15:03:45Z",
+            "content": "Jagdeep Nayyar, owner and chef at My Taste of India, stands in front of the register stand that's made from the front panel of a real Tata truck the best selling brand in India.\r\nJoel Rose/Joel Rose\r… [+5472 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "the wall street journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Omar Abdel Baqui",
+            "title": "Amazon Web Services Suffers Another Outage   The Wall Street Journal",
+            "description": "Cloud computing provider incurs at least third disruption this month",
+            "url": "https://www.wsj.com/articles/amazon web services suffers another outage 11640182421",
+            "urlToImage": "https://images.wsj.net/im 456680/social",
+            "publishedAt": "2021 12 22T15:00:00Z",
+            "content": "Amazon.com Inc . s cloud computing unit suffered a new outage Wednesday, at least its third this month, which appeared to cause internet issues for some companies.\r\nAmazon Web Services said it began … [+188 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lauren del Valle and Eric Levenson, CNN",
+            "title": "Jury in Ghislaine Maxwell's sex trafficking trial resumes deliberations   CNN",
+            "description": "Jurors in Ghislaine Maxwell's sex trafficking trial resumed deliberations Wednesday in a federal courtroom in New York.",
+            "url": "https://www.cnn.com/2021/12/22/us/ghislaine maxwell trial wednesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211208105812 03 ghislaine maxwell trial jeffrey epstein super tease.jpg",
+            "publishedAt": "2021 12 22T14:59:00Z",
+            "content": null
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Greg Robb",
+            "title": "Consumer confidence improves in December   MarketWatch",
+            "description": "Concerns about inflation subsided after hitting a 13 year high in November",
+            "url": "https://www.marketwatch.com/story/coming up u s consumer confidence in december 11640184345",
+            "urlToImage": "https://images.mktw.net/im 456082/social",
+            "publishedAt": "2021 12 22T14:45:00Z",
+            "content": "The numbers: The index of consumer confidence rose to 115.8 in December from a revised 111.9 in the prior month, The Conference Board said Wednesday.Economists polled by The Wall Street Journal had f… [+1356 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "nbc news",
+                "name": "NBC News"
+            },
+            "author": "Daniella Silva",
+            "title": "U.S. hospitals are once again 'at a breaking point' with delta and omicron   NBC News",
+            "description": "The latest hospital surge is fueled by unvaccinated patients, delta’s continued onslaught, and the arrival of omicron.",
+            "url": "https://www.nbcnews.com/news/us news/us hospitals are breaking point delta omicron rcna9562",
+            "urlToImage": "https://media cldnry.s nbcnews.com/image/upload/t_nbcnews fp 1200 630,f_auto,q_auto:best/rockcms/2021 12/211221 covid hospital los angeles mn 1440 8eddfd.jpg",
+            "publishedAt": "2021 12 22T14:36:00Z",
+            "content": "Every morning in the Minneapolis metropolitan area, 200 to 400 people wait in an emergency room for a bed to come open.\r\nThats the highest number ever, said Dr. J. Kevin Croston, the CEO of North Mem… [+6415 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": null,
+            "title": "How to watch NASA's James Webb Space Telescope launch online in several languages on Christmas Day   Space.com",
+            "description": "Liftoff of NASA's new giant space telescope is set for Dec. 25 at 7:20 a.m. EST (1220 GMT).",
+            "url": "https://www.space.com/nasa james webb space telescope launch webcasts",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/YCFVjtEFVWZ94vh4GHzuPe 1200 80.jpg",
+            "publishedAt": "2021 12 22T14:32:54Z",
+            "content": "NASA is counting down towards a Christmas Day launch for its biggest space telescope ever and you can watch it all live online.\r\nThe James Webb Space Telescope\r\n is the successor to NASA and Europe's… [+3737 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, CNN",
+            "title": "Finding a Covid 19 test is a struggle right now in the US as Omicron and holiday plans collide   CNN",
+            "description": "With coronavirus cases surging once again, frustrated Americans are struggling to get tested days before Christmas as long lines and increased demand overwhelm some facilities across the country.",
+            "url": "https://www.cnn.com/2021/12/22/health/us coronavirus wednesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211222003156 01 covid home test kit 12212021 restricted super tease.jpg",
+            "publishedAt": "2021 12 22T13:58:00Z",
+            "content": "(CNN)With coronavirus cases surging once again, frustrated Americans are struggling to get tested days before Christmas as long lines and increased demand overwhelm some facilities across the country… [+7739 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/richard lai",
+            "title": "Realme's latest flagship phone apparently feels like paper   Engadget",
+            "description": "Realme's flagship GT 2 Pro features an eco friendly bio polymer material on its back cover, with Muji design icon Naoto Fukasawa adding a textured paper feel..",
+            "url": "https://www.engadget.com/realme gt 2 pro sustainability naoto fukasawa 135537116.html",
+            "urlToImage": "https://s.yimg.com/os/creatr uploaded images/2021 12/a865e680 631b 11ec abbf 092668b9f3f3",
+            "publishedAt": "2021 12 22T13:57:26Z",
+            "content": "It was only a matter of time before someone other than Fairphone delivered a sustainability themed smartphone (which is a good thing, of course). Realme, the sister brand of Oppo and OnePlus, announc… [+2327 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "fox news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Roberto",
+            "title": "Chris Noth past comments about playing rapist in 2016 film resurface amid sexual assault allegations   Fox News",
+            "description": "Chris Noth's past comments about playing a rapist in the 2016 movie “White Girl” have resurfaced following the actor issuing a denial against sexually assaulting women in real life.",
+            "url": "https://www.foxnews.com/entertainment/chris noth comments playing rapist 2016 film resurface sexual assault allegations",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/chris noth2.jpg",
+            "publishedAt": "2021 12 22T13:19:12Z",
+            "content": "Chris Noth's past comments about playing a rapist in the 2016 movie \"White Girl\" have resurfaced following the actor issuing a denial against sexually assaulting women in real life.\r\nThe \"Sex and the… [+5254 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "MMA Fighting"
+            },
+            "author": "Jed Meshew",
+            "title": "Morning Report: Michael Bisping refutes ‘ridiculous’ claim that Jake Paul Tyron Woodley was fixed: ‘The kid c…   MMA Fighting",
+            "description": "Michael Bisping praised Jake Paul’s power but believes Paul may have a tougher time with some other MMA fighters.",
+            "url": "https://www.mmafighting.com/2021/12/22/22849337/michael bisping refutes ridiculous claim jake paul tyron woodley fixed kid can bang simple as that",
+            "urlToImage": "https://cdn.vox cdn.com/thumbor/4oGD3_5da8M4CAgUWtShl6obkZY=/0x175:3900x2217/fit in/1200x630/cdn.vox cdn.com/uploads/chorus_asset/file/23119613/1237323209.jpg",
+            "publishedAt": "2021 12 22T13:00:00Z",
+            "content": "This past weekend, Jake Paul put a stamp on 2021 by knocking out former UFC welterweight champion Tyron Woodley in their rematch, but as with all things Paul, the outcome was not without controversy.… [+6713 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Chrishell Stause addresses Jason Oppenheim split: 'Men have the luxury of time'   Page Six",
+            "description": "The “Selling Sunset” star issued a statement of her own after Oppenheim confirmed on social media that they had broken up after a relatively brief romance.",
+            "url": "https://pagesix.com/2021/12/22/chrishell stause addresses jason oppenheim breakup/",
+            "urlToImage": "https://pagesix.com/wp content/uploads/sites/3/2021/12/chrishell stause jason oppenheim 99.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021 12 22T12:57:00Z",
+            "content": "Chrishell Stause and Jason Oppenheim broke up because of their differing views on children, with the “Selling Sunset” star declaring that “men have the luxury of time.” \r\nStause issued a lengthy stat… [+1861 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "cbs news",
+                "name": "CBS News"
+            },
+            "author": "Irina Irina",
+            "title": "Coal miners union asks Manchin to reconsider opposition to Build Back Better   CBS News",
+            "description": "Coal workers have already suffered from the decline of fossil fuels. Build Back Better would have helped, union says.",
+            "url": "https://www.cbsnews.com/news/manchin united mine workers build back better/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/12/21/0e34e611 4eea 4eda 8e84 909d2783070b/thumbnail/1200x630/845901e19ff825f071b477196296a5fe/manchin gettyimages 1359039729.jpg",
+            "publishedAt": "2021 12 22T12:54:02Z",
+            "content": "Coal miners are imploring Senator Joe Manchin to reconsider his opposition to the Build Back Better Act, citing parts of the legislation that would benefit industry workers.\r\n\"[W]e are disappointed t… [+3193 chars]"
+        },
+         
+        {
+             
+            "source": {
+                "id": "cbs news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Caitlin",
+            "title": "A dinosaur embryo has been found inside a fossilized egg. Here's what that means.   CBS News",
+            "description": "The egg was acquired in 2000, but put in storage. It was later identified as a dinosaur egg, and an embryo was found hidden within it.",
+            "url": "https://www.cbsnews.com/news/dinosaur egg embryo fossilized oviraptor yingliang ganzhou china/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/12/20/ae0ad4ea 6e54 4137 bde1 5507ec2b3059/thumbnail/1200x630/198700e26dae8123b842896ad6f9081b/life reconstruction of a close to hatching oviraptorosaur dinosaur embryo based on the new specimen baby yingliang credit lida xing.png",
+            "publishedAt": "2021 12 22T12:48:33Z",
+            "content": "A well preserved dinosaur embryo has been found inside a fossilized egg. The fossilized dinosaur embryo came from Ganzhou, Jiangxi Province in southern China and was acquired by researchers in 2000.\r… [+2230 chars]"
+        }
+    ]
+
+}
