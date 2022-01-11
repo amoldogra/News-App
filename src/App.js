@@ -11,6 +11,7 @@ Route,
 } from 'react-router-dom';
 
 export default class App extends Component {
+  pageSize= 10;
   render() {
     return (
       <div>
@@ -18,14 +19,14 @@ export default class App extends Component {
         <Navbar/>
         
         <Switch>
-          <Route path="/"><News pageSize={8} country="in" category="general"/></Route>
-          <Route path="/buisness"><News pageSize={8} country="in" category="buisness"/></Route>
-          <Route path="/entertainment"><News pageSize={8} country="in" category="entertainment"/></Route>
-          <Route path="/sports"><News pageSize={8} country="in" category="sports"/></Route>
-          <Route path="/technology"><News pageSize={8} country="in" category="technology"/></Route>
-          <Route path="/health"><News pageSize={8} country="in" category="health"/></Route>
-          <Route path="/science"><News pageSize={8} country="in" category="science"/></Route>
-          <Route path="/general"><News pageSize={8} country="in" category="general"/></Route>
+          <Route exact path="/"><News key="general" pageSize={this.pageSize} country="in" category="general"/></Route>
+          <Route exact path="/buisness"><News key="buisness" pageSize={this.pageSize} country="in" category="buisness"/></Route>
+          <Route exact path="/entertainment"><News key="entertainment" pageSize={this.pageSize} country="in" category="entertainment"/></Route>
+          <Route exact path="/sports"><News key="sports" pageSize={this.pageSize} country="in" category="sports"/></Route>
+          <Route exact path="/technology"><News key="technology" pageSize={this.pageSize} country="in" category="technology"/></Route>
+          <Route exact path="/health"><News key="health" pageSize={this.pageSize} country="in" category="health"/></Route>
+          <Route exact path="/science"><News key="science" pageSize={this.pageSize} country="in" category="science"/></Route>
+          <Route exact path="/general"><News key="general" pageSize={this.pageSize} country="in" category="general"/></Route>
         </Switch>
         </Router>
       </div>
