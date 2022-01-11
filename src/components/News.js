@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
+import InfiniteScroll from "react-infinite-scroll-component";
 
 
 export class News extends Component {
@@ -15,14 +16,18 @@ export class News extends Component {
          pageSize: PropTypes.number,
          category: PropTypes.string,
      }
-    
-        constructor(){
-            super();
+         capitilizeFirstLetter = (string)=> {                       // to capitilized first word of title
+          return string.charAt(0).toUpperCase()+string.slice(1);    
+      }
+        constructor(props){
+            super(props);
             this.state = {
                 articles : [],
-                loading  : false,
-                page : 1
+                loading  : true,
+                page : 1,
+                totalResults: 0
             }
+            document.title= `${this.capitilizeFirstLetter(this.props.category)} - NewsBuster`;
         }
          async updateNews(){
             let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=4c7bef50b632477698b5bbe4953277b6&page=${this.state.page}&pageSize=${this.props.pageSize}`;
@@ -78,15 +83,35 @@ export class News extends Component {
             this.updateNews();
           }
           
+          fetchMoreData = async () => {
+           this.setState({page: this.state.page+1})
+           let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=4c7bef50b632477698b5bbe4953277b6&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+           
+           let data = await fetch(url);
+           let parsedData = await data.json();
+           console.log(parsedData);
+           this.setState({
+               articles: this.state.articles.concat(parsedData.articles), 
+               totalResults: parsedData.totalResults
+               
+           })
+          };
     
     render() {
         return (
             <div className='container my-3'>
-                <h1 className='text-center' style = {{margin : '35px 0px'}}>NewsBuster - Top Headlines</h1>
-               {this.state.loading && <Spinner/>}
+                <h2 className='text-center' style = {{margin : '35px 0px'}}>Top {this.capitilizeFirstLetter(this.props.category)} Headlines</h2>
+               {/* {this.state.loading && <Spinner/>}                                                    // used on top when we dont use scroll  */}
+               <InfiniteScroll
+          dataLength={this.state.articles.length}
+          next={this.fetchMoreData}
+          hasMore={this.state.articles.length !==this.state.totalResults}
+          loader={<Spinner/>}
+        >
                  <div className="container">
                      <div className="row my-3">
-                         {!this.state.loading && this.state.articles.map((element)=>{
+                         {/* {!this.state.loading && this.state.articles.map((element)=>{ */}
+                             { this.state.articles.map((element)=>{
                           return <div className="col-md-4" key={element.url}>
                           <NewsItem  
                              title = {element.title?element.title:""}
@@ -100,10 +125,12 @@ export class News extends Component {
                      })}
                   </div>
                 </div>
-                <div className="container d-flex justify-content-between">
+                </InfiniteScroll>
+                {/* <div className="container d-flex justify-content-between">
                 <button disabled ={this.state.page<=1} type="button" className="btn btn-danger" onClick={this.handlePrevClick} >&larr; Previous</button>
                 <button disabled={this.state.page+1 > Math.ceil(this.state.totalResults/this.props.pageSize)}type="button" className="btn btn-danger" onClick={this.handleNextClick}>Next &rarr;</button>
-                </div>  
+                </div>   */}
+                             {/* disabled this code bcoz of scrolling functionality */}
             </div>
         )
     }
